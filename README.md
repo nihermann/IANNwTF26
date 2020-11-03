@@ -1,1 +1,1 @@
-Implementin ANNs with TensorFlow
+Implementing ANNs with TensorFlow
